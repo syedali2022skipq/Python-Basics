@@ -36,8 +36,6 @@
 
 # match
 
-from nis import match
-from unittest import case
 
 
 name = input("Enter your name? : ")
